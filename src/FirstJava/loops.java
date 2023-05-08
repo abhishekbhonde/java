@@ -1,0 +1,2 @@
+public class loops {
+}
