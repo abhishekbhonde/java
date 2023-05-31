@@ -6,7 +6,7 @@ public class LongestCommonPrefix {
             String[] strs = {"flower", "flow", "flight"};
 
             String longestPrefix = prefixFinder.longestCommonPrefix(strs);
-            System.out.println("Longest common prefix: " + longestPrefix);
+            System.out.println("Longest common prefix is : " + longestPrefix);
         }
 
 
