@@ -2,7 +2,7 @@ package Leetcode;
 
 public class peaknumber162 {
     public static void main(String[] args) {
-            int [] arr ={4,5,3,4,356,23,24,24,5,2};
+            int [] arr ={4,5,3,4,356,23,24,5,2};
             int ans = peak(arr);
         System.out.println(ans);
     }
