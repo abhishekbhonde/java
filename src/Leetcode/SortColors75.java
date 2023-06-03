@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class SortColors75 {
     public static void main(String[] args) {
-        int []arr ={2,0,2,1,1,0};
+        int []arr ={2,0,2,1,0};
         bubblesort(arr);
         System.out.println(Arrays.toString(arr));
     }
